@@ -1,0 +1,17 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+@import '~bootstrap/dist/css/bootstrap-grid.css';
+@import '~bootstrap/dist/css/bootstrap-reboot.css';
+
+
+.card {
+  margin: 20px 5px;
+}
+
+.card-text {
+  font-size: 0.8em;
+}
+
+
+app-search-box {
+  width: 100%;
+}
